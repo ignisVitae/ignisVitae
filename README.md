@@ -1,7 +1,7 @@
 ### Hi, I’m Nastya and I'm starting my journey in .NET
-- 👀 I’m interested in ...
-- 📱 I'd like to work with Xamarin.Forms and CI/CD
-- 📆 And I also plan to explore more deeply the patterns and sorting algorithms
+- 👀 Now I’m interested in sorting algorithms and optimization methods
+- 📱 I'd like to work with Xamarin.Forms and learn OS Android
+- 📆 And I also plan to explore more deeply the patterns and CI/CD
 - 📫 How to reach me: godunova.ae@outlook.com
 
 <!---
